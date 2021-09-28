@@ -12,3 +12,4 @@ hello git!hot-fix text
 hotfix
 11111111111111111111
 ssh
+ssh-push
